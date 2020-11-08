@@ -1,2 +1,2 @@
 # FullstackOpen
-My Repo for FullstackOpen submissions
+My Repo for FullstackOpen submissions.
